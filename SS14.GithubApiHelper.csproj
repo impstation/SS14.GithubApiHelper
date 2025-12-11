@@ -1,11 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <NoDefaultLaunchSettingsFile>true</NoDefaultLaunchSettingsFile>
-    </PropertyGroup>
+      <UserSecretsId>f8e9bf40-8b20-45de-ab3f-1f1c6518c496</UserSecretsId>
+  </PropertyGroup>
 
     <ItemGroup>
       <FrameworkReference Include="Microsoft.AspNetCore.App" />
